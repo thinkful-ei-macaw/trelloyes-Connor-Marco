@@ -1,3 +1,7 @@
+
+
+
+
 export default {
     lists: [
       {
@@ -21,6 +25,8 @@ export default {
         cardIds: [ 'l', 'm' ],
       },
     ],
+
+    
     allCards: {
       'a': { id: 'a', title: 'First card', content: 'Hey Connnor' },
       'b': { id: 'b', title: 'Second card', content: 'lorem ipsum' },
